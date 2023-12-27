@@ -17,9 +17,9 @@ import { Metadata } from "next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next.js Clerk Template",
+  title: "Sud Scrub Media Manager",
   description:
-    "A simple and powerful Next.js template featuring authentication and user management powered by Clerk.",
+    "A powerful community building tool, that gives anyone the power to effectively and efficiently engage w/ their community using a unified brand voice.",
   openGraph: { images: ["/og.png"] },
 };
 
